@@ -1,6 +1,6 @@
-# exercise-getting-started-with-python
+# suggest-answers-getting-started-with-python
 
-Exercises for getting started with Python.
+Suggested answers for getting started with Python.
 
 ## Topics
 
